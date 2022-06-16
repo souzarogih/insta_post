@@ -1,4 +1,4 @@
-# PythonSchoolOfNet
+# Insta Post Reminder
 
 ## About Project
 > Projeto de estudo baseado no curso *Insta Post Reminder - Aplicativo de Notificação para Desktop* do Mayk Brito.
