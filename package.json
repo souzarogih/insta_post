@@ -1,0 +1,23 @@
+{
+  "name": "insta_post",
+  "version": "1.0.0",
+  "description": "> Projeto de estudo baseado no curso *Insta Post Reminder - Aplicativo de Notificação para Desktop* do Mayk Brito.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/souzarogih/insta_post.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/souzarogih/insta_post/issues"
+  },
+  "homepage": "https://github.com/souzarogih/insta_post#readme",
+  "devDependencies": {
+    "electron": "^19.0.7"
+  }
+}

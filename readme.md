@@ -1,4 +1,4 @@
-# Insta Post Reminder
+### Insta Post Reminder
 
 ## About Project
 > Projeto de estudo baseado no curso *Insta Post Reminder - Aplicativo de Notificação para Desktop* do Mayk Brito.
@@ -17,10 +17,13 @@
 ## Executar
 >Para executar esta aplicação, abra o arquivo index.html com o botão direito, `Open With Live Server`
 
-## Fonte
+## Vídeo Aulas
 Playlist completa https://www.youtube.com/playlist?list=PLeLKux5eT3kbD0iUjYCHmea57EGQSphc9
 https://www.youtube.com/watch?v=Mhd6x2Z-F_w&list=PLeLKux5eT3kbD0iUjYCHmea57EGQSphc9
 https://www.youtube.com/watch?v=MJAwA2rICzs
 
-### License
+## Project Fonte
+insta-post-reminder https://github.com/maykbrito/insta-post-reminder
+
+# License
 >Enviar um e-mail para higor.andrade@hotmail.com com o nome do projeto no título do e-mail, solicitando o uso deste projeto.
